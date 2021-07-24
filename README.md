@@ -1,0 +1,1 @@
+This is TypeADogMom's first git project!
